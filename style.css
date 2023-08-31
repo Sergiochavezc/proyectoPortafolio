@@ -1,0 +1,82 @@
+.nombre{
+    font-size: 1.9rem;
+}
+.titu{
+    font-size: 1.9rem;
+}
+.reslaboral{
+    margin: -400px 0px 420px 590px;
+    width: 500px;
+    font-size: 1.4rem;
+
+}
+.reslaboral1{
+    margin: -500px 0px 420px 650px;
+    width: 305px;
+    font-size: 1.9rem;
+    padding: 20px 15px;
+    background-color: blue;
+    border-radius: 3px;
+}
+.Trayecoria__academica1{
+    margin: -350px 0px 420px 650px;
+    font-size: 1.9rem;
+    padding: 20px 15px;
+    background-color: blue;
+    border-radius: 3px;
+    width: 305px;
+}
+.Trayecoria__academica{
+    margin: -410px 0px 420px 650px;
+    font-size: 1.4rem;
+}
+.sobre__mi1{
+        margin: -340px 0px 420px 655px;
+        font-size: 1.9rem;
+        padding: 20px 15px;
+    background-color: blue;
+    border-radius: 3px;
+    width: 305px;
+}
+.sobre__mi{
+    margin: -399px 0px 420px 610px;
+    width: 500px;
+    font-size: 1.4rem;
+}
+.cont{
+    font-size: 1.4rem;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 20px 15px;
+    display: inline-block;
+    color: black;
+    background-color: blue;
+}
+.mis__datos1{
+    margin: -559px 0px 420px 0px;
+    background-color: blue;
+    border-radius: 3px;
+    width: 210px;
+    font-size: 1.9rem;
+}
+.mis__datos{
+    margin: -399px 0px 420px 0px;
+    width: 350px;
+    font-size: 1.4rem;
+}
+.logoface{
+    width:90px;
+    height:90px; 
+}
+.logoinst{
+    width:90px;
+    height:90px; 
+}
+.logowhat{
+    width:100px;
+    height:100px; 
+}
+.enlac{
+    margin: -390px 0px 0px 0px;
+    font-size: 1.4rem;
+}
